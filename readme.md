@@ -1,23 +1,12 @@
-# iOs Intern : friend list
+# Comet jobs repository
 
-## Objective
+You can find here the different challenges we use in the interview process at Comet.
 
-The purpose of this project is to build a "contact list" view.
+## HOWTO
 
-![](ios_friend_list_01.png)
+- Create a repository and complete the challenge, then give us access to your repo for review.
 
-You have to build an iOs application presenting this simple list view. You don't need to take a special care about the UI but good taste will be well appreciate.
+## What we expect
 
-For the image and name you can build a static collection on your own with at least 20 records.
-
-### Requirement : make it smooth !
-
-## Bonus 1 :
-
-Add a second view allowing the user to switch between representation with a nice transition.
-
-![](ios_friend_list_02.png)
-
-## Bonus 2 :
-
-Source the user list from https://randomuser.me/ and build an infinite scroll.
+- Readable code. Make it clear, elegant, smart.
+- Try not to add too many dependencies, we want to read your code, not some open source repo...

@@ -1,5 +1,9 @@
 # iOs Intern : friend list
 
+* Objective-C or Swift, your choice
+* add [aureliensibiril](https://github.com/aureliensibiril) to your repo
+
+
 ## Objective
 
 The purpose of this project is to build a "contact list" view.
