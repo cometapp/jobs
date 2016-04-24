@@ -1,8 +1,7 @@
-# iOs Intern : friend list
+# iOs intern : friend list
 
 * Objective-C or Swift, your choice
 * add [aureliensibiril](https://github.com/aureliensibiril) to your repo
-
 
 ## Objective
 
