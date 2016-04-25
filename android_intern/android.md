@@ -4,7 +4,7 @@
 
 ## Objective
 
-The purpose of this project is to build a "contact list" view.
+The purpose of this project is to build a "contact" grid view.
 
 ![](android_user_gridview.png)
 
