@@ -18,3 +18,5 @@ For the image and name you will use a dynamic collection based on this API: http
 For JSON desrialization you can use this library: [Gson](https://github.com/google/gson)
 
 For network connections you can use this library: [OkHttp](http://square.github.io/okhttp/)
+
+For image caching you can use this library: [Glide](https://github.com/bumptech/glide)
